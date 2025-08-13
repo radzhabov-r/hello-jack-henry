@@ -1,0 +1,14 @@
+{
+  "server": {
+    "port": 8080,
+    "read_timeout_seconds": 15,
+    "write_timeout_seconds": 15
+  },
+  "weather": {
+    "temperature_ranges": {
+      "hot_threshold": 80,
+      "cold_threshold": 50
+    }
+  }
+}
+
